@@ -4,6 +4,7 @@ Solutions for the LeetCode problems I've encountered.
 
 | #    | Title                                                                                                                  | Solution(s)                                                                            | Difficulty |
 | ---- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------- |
+| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position)                                         | [Typescript](typescript/35_search_insert_position.ts)                                  | Easy       |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)                           | [Typescript](typescript/138_copy_list_with_random_pointers.ts)                         | Medium     |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                                                 | [Typescript](typescript/226_invert_binary_tree.ts)                                     | Easy       |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                           | [Typescript](typescript/242_valid_anagram.ts)                                          | Easy       |
